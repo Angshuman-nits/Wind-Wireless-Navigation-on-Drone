@@ -92,18 +92,15 @@ The project integrates **Pixhawk 6X**, **Raspberry Pi 4B**, and **Mission Planne
 ---
 
 ## 🌍 Applications
+- Disaster relief & rescue
 - Surveillance & defense  
-- Precision agriculture  
-- Disaster relief & rescue  
+- Precision agriculture    
 - Environmental monitoring  
 - UAV research & development  
 
 ---
 
-## 📷 Gallery (Optional)
-_Add images, wiring diagrams, or flight test results here._  
 
----
 
 ## 🛠️ Tech Stack
 - Hardware: Pixhawk 6X, Holybro X500 V2, 980kV Motors, Radiomaster FPV, M8N GPS, Raspberry Pi 4B  
@@ -112,6 +109,5 @@ _Add images, wiring diagrams, or flight test results here._
 
 ---
 
-## 📌 License
-This project is developed for research and educational purposes.  
-Feel free to fork, contribute, and improve!
+  
+
